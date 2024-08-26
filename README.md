@@ -6,4 +6,7 @@ Create a static html with your team showcasing your team profile, image, details
 
 
 Group 2:<br>
-Pojado, Racan, Reyes, Tan, Yape
+Pojado, Racan, Reyes, Tan, Yape <br><br>
+
+
+<img width="958" alt="Exercise 1 (Group 2)" src="https://github.com/user-attachments/assets/a5676d55-4755-4e5b-8b18-b83f564cfbb9">
